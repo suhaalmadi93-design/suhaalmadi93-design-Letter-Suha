@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -109,11 +110,12 @@ p {
     color:var(--colorwhite);
     padding: 10px;
 }
-.home a {
+a {
     color: skyblue;
     text-decoration: none;
     font-size: larger;
 }
+
 @media screen and (max-width:600px) {
     #container {
         display: flex;
@@ -161,5 +163,4 @@ p {
     flex-wrap: wrap;
     } 
     } 
-    
 
